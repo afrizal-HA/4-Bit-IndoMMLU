@@ -18,7 +18,7 @@ Training code is available in Eval Notebook.ipynb (modified from the ![original 
 | Aya 23 8B | ![Link](https://arxiv.org/abs/2405.15032) | Developed explicitly with multilingualism as the main goal, and demonstrated strong performance in multilingual benchmarks |
 | Gemma 2 9B | ![Link](http://goo.gle/gemma2report) | Highly capable small model, with recent chatbot arena scores higher or very close to previous GPT-4 versions. Described in the report as not trained for multilingualism in mind. |
 | Llama 3 8B | ![Link]([https://github.com/meta-llama/llama3/blob/main/eval_details.md](https://ai.meta.com/blog/meta-llama-3/)) | Highly capable small model, with relatively small multilingual data (stated to be "over 5%" for 30 languages in the release). |
-| Mistral 7B v0.3 | NA for this version | Capable model from a Western but non-English company, which may have stronger non-English performance |
+| Mistral 7B v0.3 | NA for this version | Capable model from a Western but non-English company, which may have stronger non-English performance. No report for the current version, but report for the previous version has no information on data multilingualism |
 | Phi 3 3.8B | ![Link](https://arxiv.org/abs/2404.14219) | Highly capable small model, especially for the size, but mostly trained on English-language data |
 | Qwen 2 7B | ![Link](https://qwenlm.github.io/blog/qwen2/) | Capable model, developed with extra attention for multilingual data |
 
