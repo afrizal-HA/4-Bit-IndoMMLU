@@ -112,7 +112,7 @@ Below are calibration plots for all models grouped by subject. The x axis indica
 
 ![calibration](calibration.png)
 
-Below are Pearson correlation (r) tables for each of the models. Values closer to 1 indicate better calibration.
+Below are Pearson correlation ($r$) values between the mean prediction confidence by subject and the actual subject accuracy for each of the models. Values closer to 1 indicate better calibration. Most of the models have negative $r$ values, with higher confidence predictions are more likely to be incorrect, the opposite of the ideal.
 
 | Model | 0-shot | 3-shot |
 |-------|------------------|------------------|
